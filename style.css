@@ -1,0 +1,30 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,.title{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+}
+
+p{
+    background-color: antiquewhite;
+}
+
+li{
+    background-color: cornsilk;
+}
+
+ol{
+    border-style: double;
+}
+
+ul{
+    border-style: dotted;
+}
+
+.recipes{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-style: groove;
+}
